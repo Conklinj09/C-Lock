@@ -57,6 +57,4 @@ Made with ❤️ in C.
 
 ![CC BY NC ND 4.0 License](https://img.shields.io/badge/License-CC%20BY%20NC%20ND%204.0-blue.svg)
 
-...
-
 
