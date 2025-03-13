@@ -44,12 +44,12 @@ Generated Password: A7f$kL3!pQz
 🔹 Implement a GUI version 🖥️  
 🔹 Improve randomness using a cryptographic library 🔐
 
-## 🤝 Contributing
-Feel free to fork this project, improve the code, and submit a pull request! Contributions are welcome. 💖
+## Contributing
+Feel free to fork this project, improve the code, and submit a pull request!
 
-## 📜 License
-This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.
+## License
+This project is licensed under the MIT License.
 
 ---
-Made with ❤️ in C. Happy coding! 🎉
+Made with ❤️ in C.
 
