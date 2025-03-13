@@ -53,3 +53,10 @@ This project is licensed under the MIT License.
 ---
 Made with ❤️ in C.
 
+# **C-Lock** 🔒
+
+![CC BY NC ND 4.0 License](https://img.shields.io/badge/License-CC%20BY%20NC%20ND%204.0-blue.svg)
+
+...
+
+
